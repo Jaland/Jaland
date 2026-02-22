@@ -12,6 +12,15 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaland&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jaland&theme=nord_dark)
 
+- jland-redhat's Work Stats :chart: :
+
+![](https://github-readme-stats.vercel.app/api?username=jland-redhat&show_icons=true&theme=github_dark_dimmed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jland-redhat&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jland-redhat&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jland-redhat&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jland-redhat&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jland-redhat&theme=nord_dark)
+
 Info About Me:
 
 - 🔭 My Interests include ...
